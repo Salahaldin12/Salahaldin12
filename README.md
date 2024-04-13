@@ -2,7 +2,7 @@
 <h3 align="center">I am a  artificial intelligence developer. I have of experience in data analysis, machine learning, deep learning, and computer vision. I am proficient in Python and C++</h3>
 
 
-<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/Right_Side.gif">
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 - 📫 How to reach me **salah_mohamed127@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
